@@ -1,0 +1,46 @@
+{
+    "posts": [
+      {
+        "name": "Nike",
+        "price": "1000",
+        "description": "Nice",
+        "delivery": "2022-11-27",
+        "image": " https://images.pexels.com/photos/19090/pexels-photo.jpg?cs=srgb&dl=pexels-web-donut-19090.jpg&fm=jpg",
+        "id": 1
+      },
+      {
+        "name": "Nike",
+        "price": "1000",
+        "description": "Nice",
+        "delivery": "2022-11-18",
+        "image": " https://images.pexels.com/photos/19090/pexels-photo.jpg?cs=srgb&dl=pexels-web-donut-19090.jpg&fm=jpg",
+        "id": 2
+      },
+      {
+        "name": "Nike",
+        "price": "1000",
+        "description": "Nice",
+        "delivery": "2022-11-11",
+        "image": " https://images.pexels.com/photos/19090/pexels-photo.jpg?cs=srgb&dl=pexels-web-donut-19090.jpg&fm=jpg",
+        "id": 3
+      },
+      {
+        "name": "Nike",
+        "price": "1000",
+        "description": "Nice",
+        "delivery": "2022-11-11",
+        "image": " https://images.pexels.com/photos/19090/pexels-photo.jpg?cs=srgb&dl=pexels-web-donut-19090.jpg&fm=jpg",
+        "id": 4
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
